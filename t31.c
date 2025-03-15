@@ -87,4 +87,6 @@ int main()
     for (i=0;i<n;i++) {
         printf("%d ",T[i]);
     }
+
+    return (1);
 }    
