@@ -88,5 +88,5 @@ int main()
         printf("%d ",T[i]);
     }
 
-    return (1);
+    return (0);
 }    
