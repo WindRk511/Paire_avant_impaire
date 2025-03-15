@@ -33,7 +33,7 @@ debut
 		finsi
 	finpour
 
-    //afficher de tableau trié
+    //affichage du tableau trié
     afficher("\n Tableau en ordre paire en premier:\n")
     pour (i<-0;i<n;i++)
         afficher(T[i]" ");
@@ -82,7 +82,7 @@ int main()
 		}
 	}
     
-    //afficher de tableau trié   
+    //affichage du tableau trié   
     printf("\n Tableau en ordre paire en premier:\n");
     for (i=0;i<n;i++) {
         printf("%d ",T[i]);
